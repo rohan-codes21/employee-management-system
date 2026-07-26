@@ -6,7 +6,7 @@ import Sidebar from "./components/Sidebar";
 import Dashboard from "./components/Dashboard";
 import EmployeeList from "./components/EmployeeList";
 import EmployeeForm from "./components/EmployeeForm";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 import SearchBar from "./components/SearchBar";
 
 function App() {
